@@ -1,0 +1,2 @@
+Ahmet|Ceylan|3.06.1997|Bilg Müh|Erkek|Bekar|50000|ahmet@gmail.com|Atiker mh|İş Telefonu,(151) 512-5412+GSM,(624) 626-4264+
+Hasan|Korkmaz|6.01.1997|Bilg Müh Aday|Erkek|Bekar|1000|abc@gmail.com|Yenişehir Mh|İş Telefonu,(462) 362-4624+GSM,(621) 436-2472+

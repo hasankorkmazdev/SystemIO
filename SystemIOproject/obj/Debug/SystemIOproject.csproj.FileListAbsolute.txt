@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\obj\Debug\SystemIOproject.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\obj\Debug\SystemIOproject.Forms.Login.resources
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\obj\Debug\SystemIOproject.Properties.Resources.resources
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\obj\Debug\SystemIOproject.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\obj\Debug\SystemIOproject.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\bin\Debug\SystemIOproject.exe.config
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\bin\Debug\SystemIOproject.exe
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\bin\Debug\SystemIOproject.pdb
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\obj\Debug\SystemIOproject.exe
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\obj\Debug\SystemIOproject.pdb
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\obj\Debug\SystemIOproject.Forms.PersKayit.resources
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\obj\Debug\SystemIOproject.Forms.MainForm.resources
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\obj\Debug\SystemIOproject.Forms.PersonelAra.resources
+C:\Users\PC\source\repos\SystemIOproject\SystemIOproject\obj\Debug\SystemIOproject.Forms.LoginKayit.resources
